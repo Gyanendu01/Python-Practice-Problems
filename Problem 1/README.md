@@ -1,5 +1,5 @@
-#Write A Python Program To Show Such Type Of Layout Of Number, Square And Cube.
-##Expected Result:
+# Write A Python Program To Show Such Type Of Layout Of Number, Square And Cube.
+## Expected Result:
 
 
 
