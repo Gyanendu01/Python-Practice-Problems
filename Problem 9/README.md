@@ -7,13 +7,13 @@ Write A Python Program To accept a Number From The User, And Display The Multpli
 
         MULTIPLICATION TABLE FOR 7
         ===========================
-        1 X 7 = 7
-        2 X 7 = 14
-        3 X 7 = 21
-        4 X 7 = 28
-        5 X 7 = 35
-        6 X 7 = 42
+        7 X 1 = 7
+        7 X 2 = 14
+        7 X 3 = 21
+        7 X 4 = 28
+        7 X 5 = 35
+        7 X 6 = 42
         7 X 7 = 49
-        8 X 7 = 56
-        9 X 7 = 63
-        10 X 7 = 70
+        7 X 8 = 56
+        7 X 9 = 63
+        7 X 10 = 70
