@@ -8,7 +8,7 @@ def mul_table(num):
     print("\n\tMULTIPLICATION TABLE FOR {}".format(num))
     print("\t","="*27)
     for i in range(1,11):
-        print("\t{} X {} = {}".format(i,num,i*num))
+        print("\t{} X {} = {}".format(num,i,i*num))
 
 
 #Main Program
