@@ -3,7 +3,7 @@
 Write A Program That Performs All Arithmetic Operations On Two Variables.
 
 ## EXPECTED OUTPUT: 
-        '''Enter The First Number For Addition: 2
+        <div>Enter The First Number For Addition: 2
         Enter The Second Number For Addition: 5
         The sum(2.0,5.0) = 7.0
 
@@ -25,4 +25,4 @@ Write A Program That Performs All Arithmetic Operations On Two Variables.
 
         Enter The Base Value For Exponentiation: 4
         Enter The Exponent Value For Exponentiation: 2
-        The Exponentiation of 4.0 raised to the power 2.0 = 16.0'''
+        The Exponentiation of 4.0 raised to the power 2.0 = 16.0</div>
