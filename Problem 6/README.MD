@@ -10,6 +10,7 @@ Write A Program That Performs All Arithmetic Operations On Two Variables.
         Enter The First Number For Subtraction: 6
         Enter The Second Number For Subtraction: 2
         The subtraction(6.0,2.0) = 4.0
+        
         Enter The First Number For Division: 5
         Enter The Second Number For Division: 2
         The Division(5.0,2.0) = 2.5
