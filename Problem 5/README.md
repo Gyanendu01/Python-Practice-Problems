@@ -5,6 +5,6 @@ Write a python program that takes age and name as input from the user.If age is 
 ## Expected Result:
 
 Enter your Name: Gyanendu
-        <br>Hi, Gyanendu Enter Your Age: 6
+        Hi, Gyanendu Enter Your Age: 6
 
         Sorry Gyanendu you cannot VOTE. You can VOTE after 12 years
