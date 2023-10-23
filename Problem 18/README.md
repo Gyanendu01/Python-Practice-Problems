@@ -8,9 +8,8 @@ This program has been wriiten using three approaches
 - Using max function
 
 ## EXPECTED OUTPUT
-        Enter a number: 2
-        Enter second number: 5
-        Enter third number: 4
-        Enter forth number: 6
+       Enter the elements in the list separated by space
+        1 2 3 4 5 6 7 8 9 10 11 12 65
 
-        The solution of the equation 'd+a+2*a*b/d*(4*c+10)' is: 94.6667
+        The provided list: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 65]
+        The largest element in the list: 65
