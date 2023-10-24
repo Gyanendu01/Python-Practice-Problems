@@ -6,7 +6,7 @@ Write A Python Program To accept different years(ie. 2022,2023,2024,1456.....) F
 ## EXPECTED OUTPUT
 
 ### OUTPUT 
-        Enter 5 years from the keyboard without spaces
+        Enter some years from the keyboard without spaces
         2022 2024 2020 1967 2035 1956 2004
 
         Provided years:

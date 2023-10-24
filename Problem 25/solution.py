@@ -1,6 +1,6 @@
-# Function to accept 5 years from the user
+# Function to accept years from the user
 def input_year():
-    print("\tEnter 5 years from the keyboard without spaces")
+    print("\tEnter some years from the keyboard without spaces")
     yr_input = [int(x) for x in input().split()]
     return yr_input
 
