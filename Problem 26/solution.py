@@ -17,8 +17,11 @@ num = usr_input()
 check_num(num)
 
 while True:
-    condn = input("\n\tDo you want to check another number? (y/n): ")
-    condn = condn.lower()
+    while True:
+        condn = input("\n\tDo you want to check another number? (y/n): ")
+        condn = condn.lower()
+        if condn == "y" or condn == "n":
+            break
     if condn == 'y':
         num = usr_input()
         check_num(num)
