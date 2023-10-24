@@ -2,7 +2,12 @@
 def readval():
     name = input("\tEnter your name: ")
     address = input("\tEnter your address: ")
-    contact_no = int(input("\tEnter your contact number: "))
+    while True:
+        contact_no = (input("\tEnter your contact number: "))
+        if len(contact_no) == 10:
+            break
+        else:
+            print("\n\tInvalid contact number")
     return name, address, contact_no
 
 # Function to display provided information
@@ -13,7 +18,13 @@ def dispval(name,add,cont):
 
 # Function to update the user's information
 def updateval(name,add,updated_contact):
-    updated_contact = int(input("\n\tEnter your updated contact number: "))
+    while True:
+        updated_contact = (input("\n\tEnter your updated contact number: "))
+        if len(updated_contact) == 10:
+            break
+        else:
+            print("\n\tInvalid contact number")
+    
     print("\n\tUPDATED USER INFO")
     print("\t","="*15)
     dispval(name,add,updated_contact)
