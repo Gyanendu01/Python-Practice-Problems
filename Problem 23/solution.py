@@ -16,8 +16,11 @@ usr_data = read_marks()
 check_result(usr_data[0],usr_data[1])
 
 while True:
-    condn = input("\n\tDo you want to check more subjects? (y/n): ")
-    condn = condn.lower()
+    while True:
+        condn = input("\n\tDo you want to check another number? (y/n): ")
+        condn = condn.lower()
+        if condn == "y" or condn == "n":
+            break
     if condn == "y":
         usr_data = read_marks()
         check_result(usr_data[0],usr_data[1])
