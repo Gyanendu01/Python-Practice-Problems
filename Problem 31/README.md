@@ -15,4 +15,4 @@ Converted: HOW ARE YOU
 
         User input: this is a sentence
 
-        User input: THIS IS A SENTENCE
+        Updated input: THIS IS A SENTENCE

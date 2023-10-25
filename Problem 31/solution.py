@@ -7,7 +7,7 @@ def usr_input():
 
 # Function to display the result 
 def display_res(usr_input):
-    print("\n\tUser input: {}".format(usr_input))
+    print("\n\tUpdated input: {}".format(usr_input))
 
 # Main function
 value = usr_input()
