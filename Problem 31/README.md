@@ -1,9 +1,9 @@
 # PROBLEM STATEMENT
 Write A Python Program To Accept A Sentence From The User, And Convert all the characters into UPPERCASE. 
 
-For Example:
-User Sentence : How are you
-Converted: HOW ARE YOU
+For Example:<br>
+User Input : How are you<br>
+Converted Input: HOW ARE YOU
 
 
 ## EXPECTED OUTPUT
