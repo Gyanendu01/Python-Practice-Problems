@@ -18,7 +18,7 @@ Your marks average is = ….
         Enter your username: Gyanendu
 
         Enter the name of subjects separated by space:
-Maths English Computer Physics Chemistry Trigo
+        Maths English Computer Physics Chemistry Trigo
 
         Enter the marks in Maths: 99                                                                    
 
