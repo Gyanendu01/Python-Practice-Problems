@@ -1,6 +1,7 @@
 # PROBLEM STATEMENT
 
-Develop Python Application To Accept Whether User Wants To Convert Hours to Seconds or Seconds to Hours 
+Develop A Python Application To Accept Whether User Wants To Convert Hours to Seconds or Seconds to Hours 
+Then Perfrom The Operation And Display The Result.
 
 
 ## OUTPUT
