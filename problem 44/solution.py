@@ -12,3 +12,5 @@ def area_of_traingle(len,bred):
     print("\n\tAdding the number to the result we get {}".format(ar+num))
 
 # main program
+val = user_input()
+area_of_traingle(val[0],val[1])
