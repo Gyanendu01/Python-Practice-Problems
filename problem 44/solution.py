@@ -14,3 +14,15 @@ def area_of_traingle(len,bred):
 # main program
 val = user_input()
 area_of_traingle(val[0],val[1])
+while True:
+    while True:
+        condn = input("\n\tDo you want to check more subjects? (y/n): ")
+        condn = condn.lower()
+        if condn == "y" or condn == "n":
+            break
+    if condn == "y":
+        val = user_input()
+        area_of_traingle(val[0],val[1])
+    else:
+        print("\n\tTHANK YOU")
+        break
