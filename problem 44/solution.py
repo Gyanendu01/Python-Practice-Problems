@@ -8,3 +8,7 @@ def user_input():
 def area_of_traingle(len,bred):
     ar = 0.5*len*bred
     print("\n\tArea of the traingle is {}".format(ar))
+    num = float(input("\n\tEnter a number: "))
+    print("\n\tAdding the number to the result we get {}".format(ar+num))
+
+# main program
