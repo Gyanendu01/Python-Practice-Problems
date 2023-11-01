@@ -7,6 +7,7 @@ def user_input():
 def perform_operation(sentc):
     lst = sentc.split(" ")
     lst.reverse()
+    print("\n\tYour sentence in reversed format is: ")
     for i in lst:
         print("{}".format(i),end=" ")
         
