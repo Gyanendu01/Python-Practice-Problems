@@ -8,11 +8,11 @@ def perform_operation(sentc):
     lst = sentc.split(" ")
     lst.reverse()
     for i in lst:
-        print("\n\t{}".format(i),end=" ")
+        print("{}".format(i),end=" ")
         
     print(".")
 
-    
+
 # Main program
 val = user_input()
 perform_operation(val)
