@@ -1,6 +1,6 @@
 # PROBLEM STATEMENT
 
-Write A Python Program To Get A Sentence From The User, To Reverse That Sentence And Enclose In Double Quotations And Put A Full Stop At The End Of Sentence
+Write A Python Program To Get A Sentence From The User,  Reverse That Sentence And Enclose It WithIn Double Quotations And Put A Full Stop At The End Of The Sentence.
 
 
 
