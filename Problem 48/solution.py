@@ -19,5 +19,20 @@ def display_factorial(num,fact):
 val = usr_input()
 fact = cal_factorial(val)
 print("\n\tPerforming Calculations......")
-t.sleep(5)
+t.sleep(3)
 display_factorial(val,fact)
+while True:
+    while True:
+        condn = input("\n\tDo you want to continue? (y/n): ")
+        condn = condn.lower()
+        if condn in ["y","n"]:
+            break
+    if condn == "y":
+        val = usr_input()
+        fact = cal_factorial(val)
+        print("\n\tPerforming Calculations......")
+        t.sleep(3)
+        display_factorial(val,fact)
+    else:
+        print("\n\tThank you")
+        break
