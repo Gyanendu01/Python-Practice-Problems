@@ -1,6 +1,7 @@
 import time as t
 # Function to accept input from thye user
 def usr_input():
+
     usr_input = int((input("\n\tEnter a number: ")))
     return usr_input
 
