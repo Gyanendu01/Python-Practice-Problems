@@ -23,3 +23,15 @@ def display_date(usr_input):
 # Main function
 val = usr_input()
 display_date(val)
+while True:
+    while True:
+        condn = input("\n\tDo you want to continue? (y/n): ")
+        condn = condn.lower()
+        if condn in ["y","n"]:
+            break
+    if condn == "y":
+        val = usr_input()
+        display_date(val)
+    else:
+        print("\n\tThank you")
+        break
