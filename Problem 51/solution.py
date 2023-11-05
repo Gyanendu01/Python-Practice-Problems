@@ -6,7 +6,7 @@ def user_input():
 # Function to perform the conversion and display the result
 def convertop(val):
     
-        print("\n\t Converting {} to binary we get: {}".format(val,bin(val)))
+    print("\n\tConverting {} to binary we get: {}".format(val,bin(val)))
     
     
 # main program
