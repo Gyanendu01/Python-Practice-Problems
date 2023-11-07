@@ -4,8 +4,8 @@ Write A Python Program To get first and last name from the user and display full
 If first name or last name is in lowercase capitalize the first letter of the first and last name.
 
 ## EXPECTED OUTPUT
-        Enter your first name: Gyanendu 3f4fdhdhrh
+        Enter your first name: gyanendu 3f4fdhdhrh
 
-        Enter your last name: Boitai 4533hfhhr
+        Enter your last name: boitai 4533hfhhr
 
         Hello, Gyanendu Boitai
