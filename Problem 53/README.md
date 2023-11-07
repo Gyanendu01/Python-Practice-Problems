@@ -1,3 +1,9 @@
 # PROBLEM STATEMENT
 Write A Python Program To get first and last name from the user and display full name.Even if user enters more than one word in first name or last name consider only the first words(see ecpected output)
 
+## EXPECTED OUTPUT
+        Enter your first name: Gyanendu 3f4fdhdhrh
+
+        Enter your last name: Boitai 4533hfhhr
+
+        Hello, Gyanendu Boitai
