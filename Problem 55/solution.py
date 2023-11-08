@@ -21,6 +21,6 @@ def display_result(book_name,author_name):
 
 # main program
 author_name = accept_author_name()
-print("\n","="*8)
+print("\n\t","="*44)
 book_name = accept_book_name(author_name)
 display_result(book_name,author_name)
