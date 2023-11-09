@@ -16,7 +16,7 @@ Write a python program to get student information like name, father's name, age,
                                 USER DETAILS
 
 
-    name:aditya
-    father_name:dutiyar
-    age:20
-    contact_details:223-343-556
+    name: aditya
+    father_name: dutiyar
+    age: 20
+    contact_details: 223-343-556
