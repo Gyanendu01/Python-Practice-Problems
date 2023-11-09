@@ -15,7 +15,7 @@ def operation(condn):
         value = int(input("\n\tEnter a value: "))
         print("\n\t {} Giga-bytes converted to bytes: {}".format(value, value*1000))        
     
-    if condn == 'gb':
+    if condn == 'bg':
         value = int(input("\n\tEnter a value: "))
         print("\n\t {} Bytes converted to Giga-bytes: {}".format(value, value/1000))        
 
