@@ -14,7 +14,7 @@ def display_results(d):
     print("\n\t\t\t\tUSER DETAILS")
     print("\n")
     for i,j in d.items():
-        print("{}:{}".format(i,j))
+        print("\t{}:{}".format(i,j))
 
 
 # main program
