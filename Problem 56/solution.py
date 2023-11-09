@@ -8,4 +8,18 @@ def user_input():
             break
     return condn
 
-# function to
+# function to perform operation
+
+def operation(condn):
+    if condn == 'gb':
+        value = int(input("\n\tEnter a value: "))
+        print("\n\t {} Giga-bytes converted to bytes: {}".format(value, value*1000))        
+    
+    if condn == 'gb':
+        value = int(input("\n\tEnter a value: "))
+        print("\n\t {} Bytes converted to Giga-bytes: {}".format(value, value/1000))        
+
+
+# main program
+val = user_input()
+operation(val)
